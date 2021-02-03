@@ -40,3 +40,7 @@ footer {
     margin-top: auto;
     /*border-top: 1px solid #000;*/
 }
+
+.icons {
+    display: flex;
+}
